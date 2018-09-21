@@ -21,8 +21,3 @@ class Solution:
                 connected |= self.helper(M, c)
     
         return connected
-            
-            
-                            
-                        
-        
