@@ -8,6 +8,3 @@ def primes(start, end):
                 break
         else:
             yield n
-
-for n in primes(2, 10000000):
-    print(n)
