@@ -1,2 +1,2 @@
 # Algorithms
-> A repository containing various algorithms that I've implemented.
+> A repository containing various algorithms that I've implemented
